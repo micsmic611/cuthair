@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503382713863",
+    "project_id": "cuthair-2a4b8",
+    "storage_bucket": "cuthair-2a4b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503382713863:android:cdd996e62177480a8d6ca2",
+        "android_client_info": {
+          "package_name": "com.example.cut_hair"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXjk_UK4WGTHrH6furOEkw_3TIjKFsqFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
